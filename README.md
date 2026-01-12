@@ -16,7 +16,7 @@
 ## 🌐 Live Demo
 
 Try it live:  
-[https://mywaterlab5.iceiy.com/script.php](https://mywaterlab5.iceiy.com/script.php)
+[https://bayardorj.github.io/rock-paper-scissors-game/](https://bayardorj.github.io/rock-paper-scissors-game/)
 
 ---
 
